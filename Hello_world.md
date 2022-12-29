@@ -24,3 +24,7 @@
 * Элемент 2
 * Элемент 3
 
+## 1. Установка git
+
+устонавливаем по умолчанию <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>
+
