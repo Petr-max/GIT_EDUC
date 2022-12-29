@@ -28,3 +28,10 @@
 
 устонавливаем по умолчанию <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>
 
+## 2. Настройка git
+
+При первом использовании необходимо представиться. Для этого нужно ввести две команды;
+
+```git config --global user.name "<ваше_имя>"
+git config --global user.email "<адрес_почты@email.com>"
+```
