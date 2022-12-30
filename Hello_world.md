@@ -304,6 +304,24 @@ Markdown - это простой и удобный язык разметки, к
      └─ picture-2.jpg
      └─ picture-three.jpg
  ├─ README.md
+ ```
+ ├─ images
+     └─ picture.jpg
+     └─ picture-2.jpg
+     └─ picture-three.jpg
+ ├─ README.md
+ ```
+ ├─ images
+     └─ picture.jpg
+     └─ picture-2.jpg
+     └─ picture-three.jpg
+ ├─ README.md
+ ```
+ ├─ images
+     └─ picture.jpg
+     └─ picture-2.jpg
+     └─ picture-three.jpg
+ ├─ README.md
   ```
 Важно: Имей в виду, что если в названии файла содержатся скобки или другие специальные символы, то файл может не отобразится. Если хочешь знать, как правильно называть файлы для веб-проектов, посмотри вот эти рекомендации для имен файлов в интернет проектах.
 
